@@ -17,6 +17,7 @@ Examples are found in the "Tests" directory and in the main.py.
 - Initiate an adjacency matrix with one of the available function 
 - call  a runCD function from algorithm.py, with the adjacency matrix and a similarity list file path (optional)
 - writeAndReadSimilarityToFile.py includes 2 functions to read and write a calculated similarity list to/from a file
+- due to size limitations are the precalculated similarity lists not uploaded
 
 ### References
 
